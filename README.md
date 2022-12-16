@@ -20,11 +20,7 @@ Next, fork the repository. Then, go into your favorite terminal.
 
 Now, while still inside the `boulder-dash` folder, compile the project and click on the main.exe.
 
-## Systems and Engines
-
-Here are the types of things I will be adding as a minimum viable product (alpha). Not too over the top but enough to cover the basics until more is added. Each section links to a project which will contain its sub-tasks within.
-
-### Features?
+## Features?
 
 Here is a non-exhaustive list of the features of this game.
 
