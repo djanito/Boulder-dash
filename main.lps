@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="main.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="81"/>
+        <CursorPos X="25" Y="112"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="drawunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="177"/>
+        <CursorPos X="49" Y="188"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="playerunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="224"/>
+        <CursorPos X="54" Y="242"/>
+        <FoldState Value=" T3iA0N2A"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="hudunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="141"/>
+        <CursorPos X="42" Y="150"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="enemiesunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="enemiesUnit"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="46" Y="11"/>
+        <UsageCount Value="208"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="cameraunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="21"/>
+        <CursorPos X="27" Y="34"/>
+        <UsageCount Value="78"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="physiqueunit.pas"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="39"/>
+        <CursorPos X="41" Y="59"/>
+        <UsageCount Value="112"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\fpc\3.2.0\units\SDL2\sdltype.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="34" Y="4"/>
+        <UsageCount Value="2"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\fpc\3.2.0\units\SDL2\sdlrenderer.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="689"/>
+        <CursorPos X="10" Y="678"/>
+        <UsageCount Value="4"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus\fpc\3.2.0\units\SDL2\sdltimer.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="8"/>
+        <UsageCount Value="5"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="164"/>
+        <CursorPos X="20" Y="173"/>
+        <UsageCount Value="1"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\lazarus\fpc\3.2.0\units\SDL2\sdlrect.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="50"/>
+        <CursorPos X="29" Y="58"/>
+        <UsageCount Value="5"/>
+      </Unit11>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="drawunit.pas"/>
+        <Caret Line="263" TopLine="237"/>
+      </Position1>
+      <Position2>
+        <Filename Value="drawunit.pas"/>
+        <Caret Line="264" Column="53" TopLine="239"/>
+      </Position2>
+      <Position3>
+        <Filename Value="drawunit.pas"/>
+        <Caret Line="263" Column="13" TopLine="239"/>
+      </Position3>
+      <Position4>
+        <Filename Value="cameraunit.pas"/>
+        <Caret Line="42" Column="50" TopLine="11"/>
+      </Position4>
+      <Position5>
+        <Filename Value="playerunit.pas"/>
+        <Caret Line="418" Column="65" TopLine="274"/>
+      </Position5>
+      <Position6>
+        <Filename Value="playerunit.pas"/>
+        <Caret Line="420" Column="3" TopLine="274"/>
+      </Position6>
+      <Position7>
+        <Filename Value="main.lpr"/>
+        <Caret Line="106" Column="27" TopLine="81"/>
+      </Position7>
+      <Position8>
+        <Filename Value="cameraunit.pas"/>
+        <Caret Line="48" Column="21" TopLine="18"/>
+      </Position8>
+      <Position9>
+        <Filename Value="cameraunit.pas"/>
+        <Caret Line="50" Column="45" TopLine="19"/>
+      </Position9>
+      <Position10>
+        <Filename Value="playerunit.pas"/>
+        <Caret Line="409" Column="3" TopLine="267"/>
+      </Position10>
+      <Position11>
+        <Filename Value="physiqueunit.pas"/>
+        <Caret Line="82" Column="27"/>
+      </Position11>
+      <Position12>
+        <Filename Value="drawunit.pas"/>
+        <Caret Line="162" Column="10" TopLine="140"/>
+      </Position12>
+      <Position13>
+        <Filename Value="drawunit.pas"/>
+        <Caret Line="193" Column="79" TopLine="180"/>
+      </Position13>
+      <Position14>
+        <Filename Value="drawunit.pas"/>
+        <Caret Line="278" Column="23" TopLine="170"/>
+      </Position14>
+      <Position15>
+        <Filename Value="drawunit.pas"/>
+        <Caret Line="274" Column="7" TopLine="115"/>
+      </Position15>
+      <Position16>
+        <Filename Value="drawunit.pas"/>
+        <Caret Line="269" Column="5" TopLine="114"/>
+      </Position16>
+      <Position17>
+        <Filename Value="drawunit.pas"/>
+        <Caret Line="5" Column="22"/>
+      </Position17>
+      <Position18>
+        <Filename Value="playerunit.pas"/>
+        <Caret Line="256" Column="12" TopLine="224"/>
+      </Position18>
+      <Position19>
+        <Filename Value="main.lpr"/>
+        <Caret Line="85" Column="18" TopLine="65"/>
+      </Position19>
+      <Position20>
+        <Filename Value="playerunit.pas"/>
+        <Caret Line="310" Column="7" TopLine="289"/>
+      </Position20>
+      <Position21>
+        <Filename Value="playerunit.pas"/>
+        <Caret Line="313" Column="42" TopLine="300"/>
+      </Position21>
+      <Position22>
+        <Filename Value="main.lpr"/>
+        <Caret Line="126" Column="9" TopLine="10"/>
+      </Position22>
+      <Position23>
+        <Filename Value="main.lpr"/>
+        <Caret Line="30" Column="40" TopLine="10"/>
+      </Position23>
+      <Position24>
+        <Filename Value="main.lpr"/>
+        <Caret Line="15" Column="11" TopLine="10"/>
+      </Position24>
+      <Position25>
+        <Filename Value="main.lpr"/>
+        <Caret Line="67" Column="23" TopLine="58"/>
+      </Position25>
+      <Position26>
+        <Filename Value="playerunit.pas"/>
+        <Caret Line="288" Column="7" TopLine="261"/>
+      </Position26>
+      <Position27>
+        <Filename Value="playerunit.pas"/>
+        <Caret Line="276" Column="22" TopLine="259"/>
+      </Position27>
+      <Position28>
+        <Filename Value="playerunit.pas"/>
+        <Caret Line="280" Column="20" TopLine="265"/>
+      </Position28>
+      <Position29>
+        <Filename Value="playerunit.pas"/>
+        <Caret Line="271" Column="33" TopLine="257"/>
+      </Position29>
+      <Position30>
+        <Filename Value="cameraunit.pas"/>
+        <Caret Line="8" TopLine="6"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
