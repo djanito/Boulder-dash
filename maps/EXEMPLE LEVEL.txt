@@ -1,0 +1,35 @@
+Id = 2
+Width = 78
+Height = 29
+Diamond = 7
+Time = 120
+
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bereereebereeedebeeeeerebreeeeeebeerreeereereebereeedebeeeeerebreeeeeebeerreeb
+beeeeeeebeeeeeerbrre.eeeb.eedeeebeeeereeeeeeeebeeeeeerbrre.eeeb.eedeeebeeeereb
+b............................................................................b
+bdeeeeeebereeeerbere.ee.beereedebeereredeeeeeebereeeerbere.ee.beereedebeerereb
+beeeeeeebereeeerbere.reebeeeeerebeee.eeeeeeeeebereeeerbere.reebeeeeerebeee.eeb
+bbbbbbbbbbbbbbbbbbbb.bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.bbbbbbbbbbbbbbbbbbb
+beeeerrebeereeeebeee.eerbeeeereebeeeeereeeerrebeereeeebeee.eerbeeeereebeeeeerb
+beeeeeeebee.eeeebeee.eeebeeeere.beeeeereeeeeeebee.eeeebeee.eeebeeeere.beeeeerb
+b............................................................................b
+breereeebeeeereebeer.eeebeeeeeedbreeeeereereeebeeeereebeer.eeebeeeeeedbreeeeeb
+breeeerebeereerebeee.e.rbeeeeeeebreeerereeeerebeereerebeee.e.rbeeeeeeebreeereb
+bereeeeebeeereeebeee.e.rbeeeeeeeb.reereereeeeebeeereeebeee.e.rbeeeeeeeb.reereb
+bbbbbbbbbbbbbbbbbbbb.bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.bbbbbbbbbbbbbbbbbbb
+bre..seebeeeererbeee.eeeberdeerebeeeeeere..seebeeeererbeee.eeeberdeerebeeeeeeb
+beeeeerebreeeeeebeed.eeeb.eereeebererreeeeeerebreeeeeebeed.eeeb.eereeebererreb
+b............................................................................b
+bdee.erebreeeerebere.eerberereeebeeeeeedee.erebreeeerebere.eerberereeebeeeeeeb
+beeeeerebreedeeebeee.reebeereeeebeeerr.eeeeerebreedeeebeee.reebeereeeebeeerr.b
+bedeee.rbeereeeebemd.reebe.eeeeebeeerr.edeee.rbeereeeebedd.reebe.eeeeebeeerr.b
+bereeee.bee.eerebeee.eeebeeeererbeeee.eereeee.bee.eerebele.eeebeeeererbeeee.eb
+beeeerrebeereeeebeee.eerbeeeereebeeeeereeeerrebeereeeebeee.eerbeeeereebeeeeerb
+breereeebeeeereebeer.eeebeeeeeedbreeeeereereeebeeeereebeer.eeebeeeeeedbreeeeeb
+b............................................................................b
+beeeeeeebereeeerbere.reebeeeeerebeee.eeeeeeeeebereeeerbere.reebeeeeerebeee.eeb
+bbbbbbbbbbbbbbbbbbbb.bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.bbbbbbbbbbbbbbbbbbb
+beeeerrebeereeeebeee.eerbeeeereebeeeeereeeerrebeereeeebeee.eerbeeeereebeeeeerb
+beeeeeeebee.eeeebeee.eeebeeeere.beeeeereeeeeeebee.eeeebeee.eeebeeeere.beeeeerb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
